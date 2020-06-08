@@ -13,3 +13,8 @@ Carefully follow these instructions to clone the `shopping-list-starter` repo, a
 
   - `git remote -v` - you should see the URL of your personal repo
   - `git push origin master`
+
+
+
+## User can edit the title of an item
+
